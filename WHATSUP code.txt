@@ -1,0 +1,14 @@
+This is WHATSUP code:
+
+Author:kowsalya
+
+1.Profile page code
+
+2.Chat screen code
+
+3.Settings screen code
+
+4.Attachments(Image,Audio,Video)code
+
+5.Last seen code
+
