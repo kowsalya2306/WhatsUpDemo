@@ -1,2 +1,2 @@
 # WhatsUpDemo
-This repository is develop an application
+This repository is to develop an application
