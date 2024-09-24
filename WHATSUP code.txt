@@ -17,3 +17,5 @@ Author:kowsalya
 7.Add the audio call feature
 
 8.Add the video call feature
+
+9.Add the once mode feature for photos and videos
